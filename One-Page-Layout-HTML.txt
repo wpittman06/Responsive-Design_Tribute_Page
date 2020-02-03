@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Page title </title>
+	</head>
+	<body>
+		<header>
+		<link rel="stylesheet" href="one_page_layout.css">
+			<div class="Intro">
+			<h1> William Pittman </h1>
+			<h2> print &amp;  web designer/graphic designer </h2>
+			</div>
+		</header>
+		
+		<div class="wrapper">
+			<section class="about">
+			<div class="about-content">
+				<h3>Hi, I'm William. </h3>
+				<p> Place content </p>
+			</div>
+			</section>
+		</div>
+		
+		<h3>My Work </h3>
+		<section class="work">
+			<div class="Image-area left">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> </h3>
+				<p> Place content </p>
+				<a href="g" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section>
+		
+		<section class="work">
+			<div class="Image-area right">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> </h3>
+				<p> Place content </p>
+				<a href="g" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section>
+		
+		<section class="work">
+			<div class="Image-area left">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> </h3>
+				<p> Place content </p>
+				<a href="g" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section>
+		
+		<section class="work">
+			<div class="Image-area right">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> </h3>
+				<p> Place content </p>
+				<a href="g" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section><section class="work">
+			<div class="Image-area left">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> </h3>
+				<p> Place content </p>
+				<a href="g" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section>
+		
+		<section class="work">
+			<div class="Image-area right">
+			<img src="" alt=""/>
+			</div>
+			<div class="text-box">
+				<div class="text-box-content">
+				<h3> Title </h3>
+				<p> Place content </p>
+				<a href="#" target="_blank" class="button">view project</a>
+				</div>
+			</div>
+		</section>
+		</div>
+		
+		<section class="contact">
+			<div class="content">
+			<h4> Have a project in mind? Email me:<a class="email" href="mailto:wpittman06@gmail.com">wpittman06@gmail.com</a></h4> </h4>
+			</div>
+		</section>
+		<div class="image-divider">
+		</div>
+		
+		<footer>
+			<div class="footer-content">
+			<p class="credit">&copy: Copyright 2020 William Pittman.<br>Designed and developed by William Pittman.</p>
+			<ul class="social">
+			<li><a href="#" target="_blank">twitter.</a></li>
+			<li><a href="#" target="_blank">Facebook.</a></li>
+			<li><a href="#" target="_blank">Instagram.</a></li> 
+			</ul>
+			</div>
+		</footer>
+		
+		
+		
+		
+	</body>
+</html>
